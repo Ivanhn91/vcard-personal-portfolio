@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Yifan Luo
+Yifan Luo
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+luoyifan_hn@163.com
 
 Phone
-+1 (213) 352-2795
++86 17193850231
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Hangzhou, Zhejiang, China
 
 # navbar
 
